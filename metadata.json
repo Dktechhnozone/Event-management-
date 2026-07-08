@@ -1,0 +1,6 @@
+{
+  "name": "Event Management System",
+  "description": "A full-stack Event Management System with authentication, interactive dashboards, event creation, registration, QR ticketing, and AI recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
